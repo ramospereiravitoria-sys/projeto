@@ -1,11 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Ole&display=swap');
+
+*{
+  margin:0;
+padding:0;
+}
+
 body{
     background-color: aquamarine;
     color: blueviolet;
     font-family: "Ole", cursive;
 }
 
-
+   
 .cabecalho{
   text-align: center;
   background-color:brown;
