@@ -16,3 +16,11 @@ body{
   text-align: center;
   background-color:brown;
 }
+
+main{
+ background-color: blue; 
+ color: aliceblue;
+ max-width: 800px;
+ margin: 0 auto;
+ padding: 16px;
+}
